@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[ChristinaMHarris]]></title>
-        <description><![CDATA[ChristinaMHarris]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Website of Author Christina M Harris]]></title>
+        <description><![CDATA[Website of Author Christina M Harris]]></description>
+        <link>https://thegrid.ai/christinamharris/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 21 Feb 2016 20:41:31 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 21 Feb 2016 20:53:19 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/christinamharris/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>This is my website! Hi guys, I've finally gotten around to building an author website. My current manuscript is still out to agents right now and I'm playing the waiting game but I know I'll land someone who has a vision for this thing just as I do... I'll keep you posted!</p>]]></description>
-            <link>undefined1cade958-cb77-4eae-8934-91d859f71d53/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/792b95a6-0a2d-4b2c-9574-d47b542277b2.jpg">]]></description>
+            <link>https://thegrid.ai/christinamharris/1cade958-cb77-4eae-8934-91d859f71d53/index.html</link>
             <guid isPermaLink="false">1cade958-cb77-4eae-8934-91d859f71d53</guid>
-            <pubDate>Sun, 21 Feb 2016 20:39:48 GMT</pubDate>
+            <pubDate>Sun, 21 Feb 2016 20:52:25 GMT</pubDate>
         </item>
     </channel>
 </rss>
